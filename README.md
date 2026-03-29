@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @zoopa0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram( @zoopa0 )
 
 <!---
